@@ -1,4 +1,7 @@
-### Hi there 👋
+### 说给swjtu-leeds正式开始营业啦！  
+接收各路投稿👋  
+投稿方式：邮件图文发送至 diyezh636993@163.com  
+志愿者管理，收到后尽快更新
 
 <!--
 **SayToXNJDLZ/SayToXNJDLZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
