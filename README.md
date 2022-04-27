@@ -1,19 +1,9 @@
-### 说给swjtu-leeds正式开始营业啦！  
-接收各路投稿👋  
+### <说给swjtu-leeds>Bot正式开始营业啦！  
+接收各路投稿与运营建议👋  
 投稿方式：邮件图文发送至 diyezh636993@163.com  
-志愿者管理，收到后尽快更新
+志愿者管理，收到后会尽快更新  
+**邮件发送图片时请注意保护个人隐私，志愿者不会对图片进行二次处理（除非黄赌毒）**  
+📍请勿发送与学院无关的投稿（包括但不限于个人纠纷，无意义情绪发泄等）本类投稿不予发出  
+<br>
 
-<!--
-**SayToXNJDLZ/SayToXNJDLZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+免责声明：仅接受投稿，不包含任何个人情感（当然倾向已经很明显咯）如有疑问，请邮件联系志愿者带实锤截图处理
